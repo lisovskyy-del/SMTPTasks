@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSi/72jRzsA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manin\\source\\repos\\SMTPTasks\\MailKitExample\\MailKitExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manin\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\manin\\.nuget\\packages\\mailkit\\4.17.0\\mailkit.4.17.0.nupkg.sha512",
+    "C:\\Users\\manin\\.nuget\\packages\\mimekit\\4.17.0\\mimekit.4.17.0.nupkg.sha512",
+    "C:\\Users\\manin\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.0\\system.security.cryptography.pkcs.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
